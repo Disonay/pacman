@@ -35,24 +35,6 @@ Epsilon start value: `eps` <br />
 Epsilon final value: `eps_final` <br />
 Number of steps between start and final epsilon value (linear): `eps_step` <br />
 
-## Citation
-
-Please cite this repository if it was useful for your research:
-
-```
-@article{van2016deep,
-  title={Deep Reinforcement Learning in Pac-man},
-  subtitle={Bachelor Thesis},
-  author={van der Ouderaa, Tycho},
-  year={2016},
-  school={University of Amsterdam},
-  type={Bachelor Thesis},
-}
-
-```
-
-* [van der Ouderaa, Tycho (2016). Deep Reinforcement Learning in Pac-man.](https://moodle.umons.ac.be/pluginfile.php/404484/mod_folder/content/0/Pacman_DQN.pdf)
-
 ## Requirements
 
 - `python==3.5.1`
